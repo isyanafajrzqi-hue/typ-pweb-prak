@@ -1,7 +1,7 @@
 
 package no2week12;
 public class Cafe {
-    public static String lokasi = "Jakarta";  
+    public static String lokasi = "Bandung";  
     private String nama;                       
 
     public Cafe(String nama) {
